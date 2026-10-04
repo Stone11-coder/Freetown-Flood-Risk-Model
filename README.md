@@ -15,4 +15,4 @@ Urban flooding in coastal and mountainous cities like Freetown requires data-dri
 - `freetown_flood_model.pkl`: The serialized production XGBoost model.
 - `freetown_catchment_risk_summary.csv`: Ranked zonal risk report for Freetown catchments.
 - `freetown_flood_risk_dashboard.html`: Interactive web visualization map.
-
+© 2026 Stonison Tamba Kortu. All rights reserved. This repository is shared for portfolio demonstration purposes only.
